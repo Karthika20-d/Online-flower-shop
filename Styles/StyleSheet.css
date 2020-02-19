@@ -1,0 +1,124 @@
+body{
+    padding-left:250px;
+    padding-right:250px;
+    width:60%;
+}
+header {
+    padding-left: 20px;
+    text-decoration-style: solid;
+    color: midnightblue;
+    font-family: Arial;
+}
+
+.headersecond {
+    height:25px;
+    background-color: yellowgreen;
+}
+
+.split.after {
+    content: "";
+    clear: both;
+}
+.language {
+    width: 200px;
+    margin: 10px;
+}
+
+h3,h2,h5{
+    color: midnightblue;
+    font-family: Arial;
+}
+
+
+.left {
+    float: left;
+    width: 20%
+}
+
+.right {
+    float: left;
+    width: 75%;
+    font-family: Arial;
+}
+.rightafter{
+    float:left;
+    width:5%;
+}
+
+.carddetails {
+    background-color:sandybrown;
+}
+.headerthird {
+    padding: 5px;
+    flex-shrink: 0;
+    background-color: yellowgreen;
+    color:bisque;
+}
+.start{
+    width:20px;
+    height:20px;
+}
+.make{
+    margin-left:340px;
+    text-decoration:none;
+}
+.payment {
+    width: 40px;
+    height: 40px;
+    margin-top:280px;
+}
+
+
+.line{
+    height:1px;
+    background-color:black;
+}
+.visa {
+    height: 15px;
+    width: 45px;
+    margin-left: 190px;
+    border: 1px solid black;
+    padding-top: 17px;
+    padding-bottom:17px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.pay {
+    width: 70px;
+    height: 70px;
+}
+.button{
+    text-decoration:none;
+}
+.payimg{
+    width:10%;
+}
+
+.firstquestion {
+    margin-top:230px;
+}
+.secondquestion {
+    margin-top:120px;
+}
+.footer {
+    margin-top: 1000px;
+    height:35px;
+    padding-top:5px;
+    font-weight: bold;
+    font-size:20px;
+    font-family: Arial;
+    color:midnightblue;
+    text-align: center;
+    background-color: yellowgreen;
+}
+.validation{
+    font-size:15px;
+    font-family: Arial;
+    color:red;
+}
+.security{
+text-decoration:underline;
+}
+
+
+
